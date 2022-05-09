@@ -1,0 +1,23 @@
+@media (min-width: 600px) {
+	html {
+		font-size: 68%;
+	}
+	.container-list-items__item {
+		grid-template-columns: 1fr auto 1fr repeat(3, auto);
+		.ri-arrow-right-fill {
+			display: block;
+		}
+	}
+}
+
+@media (min-width: 900px) {
+	html {
+		font-size: 74%;
+	}
+	.container-list-items__item {
+		grid-template-columns: 1fr auto 1fr repeat(3, auto);
+		.ri-arrow-right-fill {
+			display: block;
+		}
+	}
+}

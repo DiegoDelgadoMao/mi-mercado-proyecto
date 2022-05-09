@@ -1,0 +1,30 @@
+$first-color: #06113c;
+$second-color: #ff8c32;
+$third-color: #90e0ef;
+$fourth-color: #eeeeee;
+
+$first-font: 'Outfit', sans-serif;
+$second-font: 'Nanum Gothic Coding', monospace;
+
+html {
+	font-size: 62.5%;
+}
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	row-gap: 30px;
+	overflow: scroll;
+	font-family: $first-font;
+	background: $first-color;
+}
