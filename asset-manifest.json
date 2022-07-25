@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mi-mercado-proyecto/static/css/main.0113ff61.css",
+    "main.js": "/mi-mercado-proyecto/static/js/main.49f5ebfe.js",
+    "static/media/logo-mi-mercado.svg": "/mi-mercado-proyecto/static/media/logo-mi-mercado.297c2658778fc17b3a244f69999c358b.svg",
+    "index.html": "/mi-mercado-proyecto/index.html",
+    "main.0113ff61.css.map": "/mi-mercado-proyecto/static/css/main.0113ff61.css.map",
+    "main.49f5ebfe.js.map": "/mi-mercado-proyecto/static/js/main.49f5ebfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0113ff61.css",
+    "static/js/main.49f5ebfe.js"
+  ]
+}
