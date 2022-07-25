@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: 'Outfit', sans-serif;
+	background-color: #06113c;
+}
+
+body .hiddenElement {
+	display: none;
+}
+
+@media (min-width: 600px) {
+	html {
+		font-size: 65%;
+	}
+}
+
+@media (min-width: 900px) {
+	html {
+		font-size: 70%;
+	}
+}

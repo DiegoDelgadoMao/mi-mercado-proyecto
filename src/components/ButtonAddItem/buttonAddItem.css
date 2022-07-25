@@ -1,0 +1,14 @@
+.buttonAddItem {
+	position: fixed;
+	bottom: 40px;
+	right: 40px;
+	width: 5rem;
+	height: 5rem;
+	border-radius: 50%;
+	background-color: #ff8c32;
+	border: 0px;
+	box-shadow: 1px 1px 12px #000000ab;
+	cursor: pointer;
+	display: grid;
+	place-items: center;
+}
