@@ -1,0 +1,18 @@
+.container-empty-cart {
+	width: 100%;
+	display: grid;
+	place-items: center;
+	row-gap: 30px;
+}
+
+.container-empty-cart img {
+	width: 12rem;
+}
+
+.container-empty-cart h3 {
+	font-size: 1.6rem;
+	color: #eee;
+	font-weight: 300;
+	max-width: 250px;
+	text-align: center;
+}
