@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/mi-mercado-proyecto/static/css/main.0113ff61.css",
-    "main.js": "/mi-mercado-proyecto/static/js/main.49f5ebfe.js",
+    "main.css": "/mi-mercado-proyecto/static/css/main.930750c4.css",
+    "main.js": "/mi-mercado-proyecto/static/js/main.2ebafc68.js",
     "static/media/logo-mi-mercado.svg": "/mi-mercado-proyecto/static/media/logo-mi-mercado.297c2658778fc17b3a244f69999c358b.svg",
+    "static/media/empty-cart2.png": "/mi-mercado-proyecto/static/media/empty-cart2.e82465c5881f278b5cad.png",
     "index.html": "/mi-mercado-proyecto/index.html",
-    "main.0113ff61.css.map": "/mi-mercado-proyecto/static/css/main.0113ff61.css.map",
-    "main.49f5ebfe.js.map": "/mi-mercado-proyecto/static/js/main.49f5ebfe.js.map"
+    "main.930750c4.css.map": "/mi-mercado-proyecto/static/css/main.930750c4.css.map",
+    "main.2ebafc68.js.map": "/mi-mercado-proyecto/static/js/main.2ebafc68.js.map"
   },
   "entrypoints": [
-    "static/css/main.0113ff61.css",
-    "static/js/main.49f5ebfe.js"
+    "static/css/main.930750c4.css",
+    "static/js/main.2ebafc68.js"
   ]
 }
